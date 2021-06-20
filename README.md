@@ -5,4 +5,4 @@
 - lazy column
 
 ## Screenshot
-![screenshot](screenshot1.png)&nbsp;&nbsp;&nbsp;
+![screenshot](screenshot1.png)
